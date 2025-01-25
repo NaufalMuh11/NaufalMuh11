@@ -11,7 +11,7 @@ I am a **Web and Data enthusiast** with a passion for creating insightful data v
 I enjoy exploring tools and techniques to turn raw data into meaningful insights through clear, impactful visuals. I thrive in team settings, always willing to collaborate and ask questions to improve and solve challenges effectively.
 
 - 🔭 Currently studying at **UPN "Veteran" Jakarta**  
-📚 Check out my portfolio at [**My Portfolio**](https://drive.google.com/file/d/1C5CA8VN01RfoV284UCbA1bz7NJF4j1lO/view?usp=sharing)
+📚 Check out my portfolio at [**My Portfolio**]([(https://muh-porto.vercel.app)])
 - 🤔 I’m looking for help with Data Science
 - 🎲 Fun fact: can't spell the word R  
 
