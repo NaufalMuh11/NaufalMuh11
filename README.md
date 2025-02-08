@@ -13,7 +13,7 @@ I enjoy exploring tools and techniques to turn raw data into meaningful insights
 - 🔭 Currently studying at **UPN "Veteran" Jakarta**
 - 📚 Check out my portfolio at [**My Portfolio**](https://muh-porto.vercel.app)
 - 🤔 I’m looking for help with Data Science
-- 🎲 Fun fact: can't spell the word R  
+- 🎲 Fun fact: I am a wizard
 
 
 ### 🛠️ Languages:
