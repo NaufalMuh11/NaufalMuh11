@@ -10,7 +10,7 @@ I am a **Web and Data enthusiast** with a passion for creating insightful data v
 
 I enjoy exploring tools and techniques to turn raw data into meaningful insights through clear, impactful visuals. I thrive in team settings, always willing to collaborate and ask questions to improve and solve challenges effectively.
 
-- 🔭 Currently studying at **UPN "Veteran" Jakarta**
+- 🔭 Final Year Student at **UPN "Veteran" Jakarta**
 - 📚 Check out my portfolio at [**My Portfolio**](https://muh-porto.vercel.app)
 - 🤔 I’m looking for help with Data Science
 - 🎲 Fun fact: I am a wizard
